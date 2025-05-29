@@ -1,0 +1,201 @@
+timestamp,message,logStreamName
+1748454778081,> coffee_api@1.0.0 start /usr/src/app,awslogs-capstone/customer/a7674fc58a264366a58b80a6258869c6
+1748454778081,> APP_DB_HOST=$APP_DB_HOST node index.js,awslogs-capstone/customer/a7674fc58a264366a58b80a6258869c6
+1748454778476,"[NOTICE] Value for key 'APP_DB_USER' not found in ENV, using default value.  See app/config/config.js",awslogs-capstone/customer/a7674fc58a264366a58b80a6258869c6
+1748454778477,"[NOTICE] Value for key 'APP_DB_PASSWORD' not found in ENV, using default value.  See app/config/config.js",awslogs-capstone/customer/a7674fc58a264366a58b80a6258869c6
+1748454778478,"[NOTICE] Value for key 'APP_DB_NAME' not found in ENV, using default value.  See app/config/config.js",awslogs-capstone/customer/a7674fc58a264366a58b80a6258869c6
+1748454778746,Server is running on port 8080.,awslogs-capstone/customer/a7674fc58a264366a58b80a6258869c6
+1748455849056,> coffee_api@1.0.0 start /usr/src/app,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455849056,> APP_DB_HOST=$APP_DB_HOST node index.js,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455849456,"[NOTICE] Value for key 'APP_DB_USER' not found in ENV, using default value.  See app/config/config.js",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455849457,"[NOTICE] Value for key 'APP_DB_PASSWORD' not found in ENV, using default value.  See app/config/config.js",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455849457,"[NOTICE] Value for key 'APP_DB_NAME' not found in ENV, using default value.  See app/config/config.js",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455849670,Server is running on port 8080.,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855429,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455855432,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885390,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455885405,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915417,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455915421,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945422,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455945423,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975427,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975428,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748455975430,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005441,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456005461,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035472,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456035492,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065501,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456065516,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095525,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456095548,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125556,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456125561,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155560,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456155591,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,"    city: 'נתניה',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,"    state: 'asdafsd',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,"    email: 'sdfsdf@dsfsdf0.com',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185573,    phone: '0525976330' } ],awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185612,suppliers:  [ TextRow {,awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185612,"    id: 1,",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185612,"    name: 'ליאור מסטורוב',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa
+1748456185612,"    address: 'שדרות גולדה מאיר',",awslogs-capstone/employee/007ba14e6c754bd19dcd9d03c66002aa

@@ -1,0 +1,119 @@
+timestamp,message
+1748506607119,"INIT_START Runtime Version: python:3.9.v91	Runtime Version ARN: arn:aws:lambda:us-east-1::runtime:c4127de9acf600313fc596a22245bc413de98744c008a2b8a38abb334f663c06
+"
+1748506607458,"START RequestId: 06471b05-d61e-4897-9ce3-22394c4fa1b7 Version: $LATEST
+"
+1748506607458,"event ... {'version': '0', 'id': 'c9e917fe-8ab1-dfe8-b326-78680ced2d54', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:16:45Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/employee-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:16:45.576Z'}}
+"
+1748506607810,"END RequestId: 06471b05-d61e-4897-9ce3-22394c4fa1b7
+"
+1748506607810,"REPORT RequestId: 06471b05-d61e-4897-9ce3-22394c4fa1b7	Duration: 352.53 ms	Billed Duration: 353 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 337.97 ms	
+"
+1748506650916,"START RequestId: 0fa7a912-dc20-44b3-8e66-fc8b78cd84c5 Version: $LATEST
+"
+1748506650916,"event ... {'version': '0', 'id': '19ee119d-24a4-d815-69d4-9b5dbbc1472b', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:17:29Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/customer-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:17:29.643Z'}}
+"
+1748506651193,"Deleting the tasks at ECS cluster : {'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'clusterName': 'microservices-serverlesscluster', 'status': 'ACTIVE', 'registeredContainerInstancesCount': 0, 'runningTasksCount': 7, 'pendingTasksCount': 0, 'activeServicesCount': 2, 'statistics': [], 'tags': [], 'settings': [], 'capacityProviders': [], 'defaultCapacityProviderStrategy': []}
+"
+1748506651610,"Completed stopping all the running ECS tasks at the cluster
+"
+1748506651629,"END RequestId: 0fa7a912-dc20-44b3-8e66-fc8b78cd84c5
+"
+1748506651629,"REPORT RequestId: 0fa7a912-dc20-44b3-8e66-fc8b78cd84c5	Duration: 713.81 ms	Billed Duration: 714 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+1748506683679,"START RequestId: ca469690-8d87-43a5-b6a1-6d252ee63070 Version: $LATEST
+"
+1748506683680,"event ... {'version': '0', 'id': 'f6e001f9-e641-7002-8988-986aa25e34b6', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:18:02Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/employee-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:18:02.884Z'}}
+"
+1748506683911,"END RequestId: ca469690-8d87-43a5-b6a1-6d252ee63070
+"
+1748506683911,"REPORT RequestId: ca469690-8d87-43a5-b6a1-6d252ee63070	Duration: 231.79 ms	Billed Duration: 232 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+1748506749990,"START RequestId: 4bd15897-09ba-47e1-b07f-f50fd599b496 Version: $LATEST
+"
+1748506749991,"event ... {'version': '0', 'id': '9c46ba9c-b1f0-9f33-250d-4a507155ce35', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:19:08Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/customer-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:19:08.327Z'}}
+"
+1748506750229,"Deleting the tasks at ECS cluster : {'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'clusterName': 'microservices-serverlesscluster', 'status': 'ACTIVE', 'registeredContainerInstancesCount': 0, 'runningTasksCount': 7, 'pendingTasksCount': 0, 'activeServicesCount': 2, 'statistics': [], 'tags': [], 'settings': [], 'capacityProviders': [], 'defaultCapacityProviderStrategy': []}
+"
+1748506750629,"Completed stopping all the running ECS tasks at the cluster
+"
+1748506750648,"END RequestId: 4bd15897-09ba-47e1-b07f-f50fd599b496
+"
+1748506750648,"REPORT RequestId: 4bd15897-09ba-47e1-b07f-f50fd599b496	Duration: 658.32 ms	Billed Duration: 659 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+1748507048272,"START RequestId: bbad4b9a-70f1-4273-a3cc-e36c366cdd93 Version: $LATEST
+"
+1748507048272,"event ... {'version': '0', 'id': 'd98f9dd4-18fd-bae4-003b-fea0db9fc443', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:24:06Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/employee-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:24:06.949Z'}}
+"
+1748507048524,"END RequestId: bbad4b9a-70f1-4273-a3cc-e36c366cdd93
+"
+1748507048524,"REPORT RequestId: bbad4b9a-70f1-4273-a3cc-e36c366cdd93	Duration: 252.64 ms	Billed Duration: 253 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+1748507117928,"START RequestId: d7f8d8d0-74f5-4cb2-a137-681cd57cafd9 Version: $LATEST
+"
+1748507117929,"event ... {'version': '0', 'id': 'd2d03ed7-353f-1b1d-cb03-46580c67dca6', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:25:16Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/customer-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:25:16.126Z'}}
+"
+1748507118167,"Deleting the tasks at ECS cluster : {'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'clusterName': 'microservices-serverlesscluster', 'status': 'ACTIVE', 'registeredContainerInstancesCount': 0, 'runningTasksCount': 7, 'pendingTasksCount': 0, 'activeServicesCount': 2, 'statistics': [], 'tags': [], 'settings': [], 'capacityProviders': [], 'defaultCapacityProviderStrategy': []}
+"
+1748507118592,"Completed stopping all the running ECS tasks at the cluster
+"
+1748507118593,"END RequestId: d7f8d8d0-74f5-4cb2-a137-681cd57cafd9
+"
+1748507118593,"REPORT RequestId: d7f8d8d0-74f5-4cb2-a137-681cd57cafd9	Duration: 664.73 ms	Billed Duration: 665 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+1748507179067,"START RequestId: dcc39bdc-bd3c-44a7-9a55-df9ea86c2725 Version: $LATEST
+"
+1748507179067,"event ... {'version': '0', 'id': '66b24916-006a-7411-a058-c73091e35b4c', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:26:18Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/employee-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:26:18.648Z'}}
+"
+1748507179324,"Deleting the tasks at ECS cluster : {'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'clusterName': 'microservices-serverlesscluster', 'status': 'ACTIVE', 'registeredContainerInstancesCount': 0, 'runningTasksCount': 1, 'pendingTasksCount': 6, 'activeServicesCount': 2, 'statistics': [], 'tags': [], 'settings': [], 'capacityProviders': [], 'defaultCapacityProviderStrategy': []}
+"
+1748507179643,"Completed stopping all the running ECS tasks at the cluster
+"
+1748507179644,"END RequestId: dcc39bdc-bd3c-44a7-9a55-df9ea86c2725
+"
+1748507179644,"REPORT RequestId: dcc39bdc-bd3c-44a7-9a55-df9ea86c2725	Duration: 577.44 ms	Billed Duration: 578 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
+1748507222631,"START RequestId: ca04985f-97ef-4694-aca8-ac1574215687 Version: $LATEST
+"
+1748507222631,"event ... {'version': '0', 'id': 'a5737c55-b54f-2880-b36e-74b478b6174e', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:27:01Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/customer-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:27:01.715Z'}}
+"
+1748507222883,"END RequestId: ca04985f-97ef-4694-aca8-ac1574215687
+"
+1748507222883,"REPORT RequestId: ca04985f-97ef-4694-aca8-ac1574215687	Duration: 252.29 ms	Billed Duration: 253 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
+1748507535519,"START RequestId: 641faf61-f381-4389-84d9-f2ee50217bb9 Version: $LATEST
+"
+1748507535520,"event ... {'version': '0', 'id': '8739fdfa-33e4-eafc-bf3d-faa98bc77ee1', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:32:14Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/employee-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:32:14.578Z'}}
+"
+1748507535778,"Deleting the tasks at ECS cluster : {'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'clusterName': 'microservices-serverlesscluster', 'status': 'ACTIVE', 'registeredContainerInstancesCount': 0, 'runningTasksCount': 7, 'pendingTasksCount': 0, 'activeServicesCount': 2, 'statistics': [], 'tags': [], 'settings': [], 'capacityProviders': [], 'defaultCapacityProviderStrategy': []}
+"
+1748507536172,"Completed stopping all the running ECS tasks at the cluster
+"
+1748507536178,"END RequestId: 641faf61-f381-4389-84d9-f2ee50217bb9
+"
+1748507536178,"REPORT RequestId: 641faf61-f381-4389-84d9-f2ee50217bb9	Duration: 658.52 ms	Billed Duration: 659 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
+1748507581450,"START RequestId: 919f7ba8-6aa4-4db5-8b78-f988ddb956f9 Version: $LATEST
+"
+1748507581450,"event ... {'version': '0', 'id': '2f25fbaa-3b9b-b923-c977-2f99232200c5', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:33:00Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/customer-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:33:00.132Z'}}
+"
+1748507581699,"END RequestId: 919f7ba8-6aa4-4db5-8b78-f988ddb956f9
+"
+1748507581699,"REPORT RequestId: 919f7ba8-6aa4-4db5-8b78-f988ddb956f9	Duration: 249.41 ms	Billed Duration: 250 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
+1748507621660,"START RequestId: ce8b4150-2b77-4452-b878-4db9698c91f6 Version: $LATEST
+"
+1748507621661,"event ... {'version': '0', 'id': '06af7a8e-7055-3d5d-bc24-335a18d1a8e2', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:33:41Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/employee-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:33:41.144Z'}}
+"
+1748507621916,"END RequestId: ce8b4150-2b77-4452-b878-4db9698c91f6
+"
+1748507621916,"REPORT RequestId: ce8b4150-2b77-4452-b878-4db9698c91f6	Duration: 256.02 ms	Billed Duration: 257 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
+1748507697969,"START RequestId: b141320f-0c3b-4299-9b81-576c89418e1b Version: $LATEST
+"
+1748507697975,"event ... {'version': '0', 'id': 'd7cc6448-24d2-a42c-07a9-db9069d79464', 'detail-type': 'ECS Service Action', 'source': 'aws.ecs', 'account': '314977818259', 'time': '2025-05-29T08:34:57Z', 'region': 'us-east-1', 'resources': ['arn:aws:ecs:us-east-1:314977818259:service/microservices-serverlesscluster/customer-microservice'], 'detail': {'eventType': 'INFO', 'eventName': 'SERVICE_STEADY_STATE', 'clusterArn': 'arn:aws:ecs:us-east-1:314977818259:cluster/microservices-serverlesscluster', 'createdAt': '2025-05-29T08:34:57.395Z'}}
+"
+1748507698215,"END RequestId: b141320f-0c3b-4299-9b81-576c89418e1b
+"
+1748507698215,"REPORT RequestId: b141320f-0c3b-4299-9b81-576c89418e1b	Duration: 246.60 ms	Billed Duration: 247 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
